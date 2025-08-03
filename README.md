@@ -1,21 +1,56 @@
-# 💫 About Me:
-👋 Hi there! I’m Swayam, a full stack dev experienced in MERN and NEXT.js My journey in tech revolves around web developmentrn, where I enjoy building innovative solutions that leverage data and technology.<br><br>🎓 I am currently pursuing BTech in Electronics and Communication Engineering<br><br>🚀 I'm actively working on exciting projects, including: ExpenBoard, my first ever and most loved projecs, a Next.js webapp to track your expenses.<br><br>🌱 I’m currently Mastering my web dev skills and continously learning new tech stack<br><br>Feel free to connect with me or check out my projects! I am available as a team member for hackathons<br><br>✉️: swayambansal@outlook.com
+# Swayam Bansal
 
+**Full Stack Developer | Freelancer**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swymbnsl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swymbnsl) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/swymbnsl) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swymbnsl) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swymbnsl) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/swymbnsl) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:swayambansal@outlook.com)
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
+
+## About Me
+
+A passionate Full Stack developer from India. Currently pursuing B.Tech in Computer Science and Technology  
+
+---
+
+## 🛠️ Tech Stack
+
+[![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Electron](https://img.shields.io/badge/Electron-111827?style=for-the-badge&logo=electron&logoColor=47848F)](https://www.electronjs.org/)
+[![React Native](https://img.shields.io/badge/React_Native-111827?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+[![Expo](https://img.shields.io/badge/Expo-111827?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/)
+
+<!-- Backend & Database -->
+[![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![NestJS](https://img.shields.io/badge/NestJS-111827?style=for-the-badge&logo=nestjs&logoColor=E0234E)](https://nestjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
+[![Neon](https://img.shields.io/badge/Neon-111827?style=for-the-badge&logo=neon&logoColor=08F)](https://neon.tech/)
+[![Prisma](https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![Drizzle](https://img.shields.io/badge/Drizzle-111827?style=for-the-badge&logo=drizzle&logoColor=white)](https://orm.drizzle.team/)
+[![tRPC](https://img.shields.io/badge/tRPC-111827?style=for-the-badge&logo=trpc&logoColor=2596be)](https://trpc.io/)
+
+<!-- DevOps & Cloud -->
+[![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=326CE5)](https://kubernetes.io/)
+[![YAML](https://img.shields.io/badge/YAML-111827?style=for-the-badge&logo=yaml&logoColor=CB171E)](https://yaml.org/)
+[![Kestra](https://img.shields.io/badge/Kestra-111827?style=for-the-badge&logo=kestra&logoColor=4F46E5)](https://kestra.io/)
+[![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/)
+
+<!-- Tools & Languages -->
+[![Arduino](https://img.shields.io/badge/Arduino-111827?style=for-the-badge&logo=arduino&logoColor=00979D)](https://www.arduino.cc/)
+[![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2b%2b&logoColor=00599C)](https://isocpp.org/)
+[![Rust](https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=swymbnsl&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=swymbnsl&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=swymbnsl&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=swymbnsl&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
